@@ -19,5 +19,4 @@ def zip(list_1: list[str], list_2: list[int]) -> dict[str, int]:
 
     return didi
     
-
 print(zip(["Happy", "Tuesday", "Wednesday"], [1, 2, 3]))
